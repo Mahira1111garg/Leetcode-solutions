@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -37,5 +38,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
