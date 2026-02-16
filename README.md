@@ -27,6 +27,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
