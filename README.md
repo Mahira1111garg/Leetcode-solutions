@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
