@@ -24,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -75,6 +77,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,4 +101,12 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
