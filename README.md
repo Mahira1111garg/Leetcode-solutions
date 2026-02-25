@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
