@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -91,12 +92,14 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Stack
