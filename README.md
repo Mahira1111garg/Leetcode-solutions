@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -138,4 +139,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
