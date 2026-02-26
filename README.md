@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -99,6 +101,7 @@
 | [0011-container-with-most-water](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
