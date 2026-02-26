@@ -65,6 +65,7 @@
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
@@ -85,6 +86,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
@@ -116,6 +118,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Rolling Hash
 |  |
 | ------- |
