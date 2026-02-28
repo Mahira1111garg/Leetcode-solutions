@@ -27,6 +27,7 @@
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
