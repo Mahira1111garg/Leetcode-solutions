@@ -34,12 +34,14 @@
 | [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
@@ -87,6 +89,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -113,6 +116,7 @@
 | ------- |
 | [0077-combinations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
