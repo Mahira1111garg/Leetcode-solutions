@@ -36,6 +36,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
