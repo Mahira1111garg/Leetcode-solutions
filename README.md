@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0577-employee-bonus) |
