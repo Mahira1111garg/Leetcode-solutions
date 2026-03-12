@@ -42,6 +42,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -157,6 +159,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Rolling Hash
 |  |
 | ------- |
