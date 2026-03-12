@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -136,6 +138,7 @@
 | [0011-container-with-most-water](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
