@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -68,6 +69,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1622-fancy-sequence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Matrix
 |  |
 | ------- |
