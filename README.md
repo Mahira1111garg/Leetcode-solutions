@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0027-remove-element) |
@@ -104,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0459-repeated-substring-pattern](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
@@ -266,4 +268,8 @@
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
