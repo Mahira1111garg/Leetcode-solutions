@@ -46,6 +46,7 @@
 | [0896-monotonic-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -84,6 +85,7 @@
 | [0238-product-of-array-except-self](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -98,6 +100,7 @@
 | [0278-first-bad-version](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Interactive
@@ -257,6 +260,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
