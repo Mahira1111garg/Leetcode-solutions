@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -253,6 +254,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
