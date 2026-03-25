@@ -75,6 +75,7 @@
 | [0169-majority-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -150,6 +152,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
@@ -318,4 +321,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
