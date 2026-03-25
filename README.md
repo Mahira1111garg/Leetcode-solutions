@@ -40,6 +40,7 @@
 | [0229-majority-element-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -205,6 +206,7 @@
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
