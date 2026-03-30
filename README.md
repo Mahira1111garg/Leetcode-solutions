@@ -86,6 +86,7 @@
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -159,6 +160,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -225,6 +227,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Stack
 |  |
