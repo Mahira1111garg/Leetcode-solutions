@@ -50,6 +50,7 @@
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0874-walking-robot-simulation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0896-monotonic-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@
 | [0229-majority-element-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0874-walking-robot-simulation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -253,6 +255,7 @@
 | [0657-robot-return-to-origin](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
