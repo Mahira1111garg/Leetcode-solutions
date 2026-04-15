@@ -15,6 +15,7 @@
 | [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1622-fancy-sequence) |
@@ -27,6 +28,7 @@
 | [0002-add-two-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
