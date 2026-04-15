@@ -16,6 +16,7 @@
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1622-fancy-sequence) |
@@ -29,6 +30,7 @@
 | [0206-reverse-linked-list](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
@@ -211,6 +213,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
