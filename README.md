@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
