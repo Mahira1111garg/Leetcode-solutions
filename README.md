@@ -76,6 +76,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -163,6 +164,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -256,6 +258,7 @@
 | [0696-count-binary-substrings](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
