@@ -48,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0169-majority-element) |
@@ -227,6 +228,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
