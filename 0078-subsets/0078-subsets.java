@@ -6,9 +6,8 @@ class Solution {
     }
     public void helper(int nums[], int idx, List<Integer> dp, List<List<Integer>> result){
         
-        if(idx==nums.length){
-            List<Integer> ls = new ArrayList<>(dp);
-            result.add(ls);
+        if(idx==nums.length){   
+            result.add(new ArrayList<>(dp));
             return;
         }
 
