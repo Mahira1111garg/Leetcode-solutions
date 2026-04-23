@@ -10,7 +10,6 @@ class Solution {
             result.add(new ArrayList<>(dp));
             return;
         }
-
         //pick 
         dp.add(nums[idx]);
         helper(nums, idx+1, dp, result);
