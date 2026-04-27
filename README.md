@@ -450,6 +450,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -457,17 +458,20 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
