@@ -485,6 +485,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -497,6 +498,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0112-path-sum) |
@@ -511,6 +513,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0112-path-sum) |
