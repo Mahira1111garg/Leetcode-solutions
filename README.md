@@ -14,6 +14,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0078-subsets) |
@@ -383,6 +385,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
