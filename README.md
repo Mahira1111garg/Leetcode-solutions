@@ -58,6 +58,7 @@
 | [0078-subsets](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0231-power-of-two) |
