@@ -102,6 +102,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2751-robot-collisions) |
@@ -342,6 +343,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2069-walking-robot-simulation-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
