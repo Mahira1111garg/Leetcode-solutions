@@ -106,6 +106,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -140,6 +141,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -317,6 +319,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
