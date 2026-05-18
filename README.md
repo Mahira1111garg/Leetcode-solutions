@@ -79,6 +79,7 @@
 | [0941-valid-mountain-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1345-jump-game-iv](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -139,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2615-sum-of-distances](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2615-sum-of-distances) |
@@ -517,6 +519,7 @@
 | [0112-path-sum](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [1345-jump-game-iv](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
