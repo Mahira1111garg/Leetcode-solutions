@@ -79,6 +79,7 @@
 | [0941-valid-mountain-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1340-jump-game-v](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -327,6 +328,7 @@
 | [0645-set-mismatch](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -378,6 +380,7 @@
 | [0053-maximum-subarray](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
