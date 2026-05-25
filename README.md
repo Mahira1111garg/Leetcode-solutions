@@ -184,6 +184,7 @@
 | [0724-find-pivot-index](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1871-jump-game-vii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -238,6 +239,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1816-truncate-sentence](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1871-jump-game-vii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -382,6 +384,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -470,6 +473,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1871-jump-game-vii](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Mahira1111garg/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
